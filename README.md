@@ -20,7 +20,7 @@ To get a local copy up and running follow these simple steps.
 
 Installation
 
-1.	Clone the repo
+1.	Clone the repo: https://github.com/kasperk44/Assignment-Komputer-Store-App---JavaScript-Fundamentals
 
 Usage
 
